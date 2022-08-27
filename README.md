@@ -1,2 +1,3 @@
-# VIXEN---PAGE-TEMPLATE
-Free to use page template, just leave copyright correct.
+📃 | FREE TO USE PAGE TEMPLATE
+💻 | ONLY HTML AND JAVASCRIPT
+💡 | DONT LEAVE COPYRIGHT ON ME
